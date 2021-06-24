@@ -1,4 +1,4 @@
 html {
-    background: url('small.jpg') no-repeat center fixed;
+    background: url('small.jpg');
     background-size: cover;
 }
